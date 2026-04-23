@@ -1,15 +1,15 @@
-# Digital Twin Web Technology Survey — 2025
+# Digital Twin Web Technology Survey 
 
-> Levantamento tecnológico sobre gêmeos digitais com visualização web, conduzido no âmbito do projeto de implementação do gêmeo digital do vertedouro da Usina de Itaipu Binacional.  
-> **Itaipu Parquetec · Centro de Soluções para Barragens · Estágio de Pesquisa 2025**
+> Levantamento tecnológico sobre gêmeos digitais com visualização web. Essa pesquisa foi iniciada em fevereiro de 2026 e apresenta resultados iniciais para stack tecnologica de gemeos digitais na web com a engine Unity. 
 
 ---
 
 ## Descrição
 
-Este repositório documenta o pipeline completo de pesquisa aplicada conduzido para orientar as decisões técnicas de stack do projeto de gêmeo digital do vertedouro da Usina de Itaipu. A pesquisa combina revisão sistemática de artigos científicos (IEEE Xplore + ASReview), análise de repositórios GitHub via API, e extração estruturada de informações com NotebookLM.
+Este repositório documenta o pipeline completo de pesquisa aplicada conduzido para orientar as decisões técnicas de stack do projeto de gêmeo digital. A pesquisa combina revisão sistemática de artigos científicos (IEEE Xplore + ASReview), análise de repositórios GitHub via API, e extração estruturada de informações com NotebookLM com base em um roteiro de perguntas.
 
-O foco central é responder: **quais tecnologias são utilizadas em implementações reais de gêmeos digitais com visualização web — especialmente com Unity Engine — e como essas escolhas impactam a viabilidade de integração com dados de sensores em tempo real?**
+O foco central é responder: quais tecnologias são utilizadas em implementações de gêmeos digitais com visualização web utilizando Unity engine e como essas escolhas impactam a viabilidade de integração com dados de sensores em tempo real?
+Qual a stack tecnologica mais utilizada em projetos de gemeo digital na web com unity? 
 
 ---
 
@@ -180,12 +180,10 @@ Roteiro completo de perguntas para extração com NotebookLM disponível em `pip
 
 ## Contexto do Projeto
 
-**Organização:** Itaipu Parquetec — Centro de Soluções para Barragens (CSB)  
-**Objetivo:** Gêmeo digital do vertedouro da Usina de Itaipu Binacional com visualização web em Unity Engine  
+**Objetivo:** Gêmeo digital de infrestrutura crítica utilizando unity engine para visualização
 **Fase 1:** Dados históricos estáticos  
 **Fase 2 (futura):** Ingestão de dados de sensores em tempo real  
-**Papel:** Estagiária de Pesquisa · 2025
 
 ---
 
-*Este repositório é um entregável de pesquisa aplicada. O conteúdo representa um panorama tecnológico para suporte à tomada de decisão técnica da equipe — não constitui recomendação definitiva de stack.*
+*Este repositório foi utilizado como um entregável de pesquisa aplicada e análise de dados. O conteúdo representa um panorama tecnológico para suporte à tomada de decisão técnica da equipe, não constitui recomendação definitiva de stack.*
