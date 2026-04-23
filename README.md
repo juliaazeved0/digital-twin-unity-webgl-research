@@ -92,7 +92,7 @@ Unity domina com 85,9% dos repositórios relevantes. Digital Twin aparece em 79,
 
 ### Tecnologias por Categoria Arquitetural
 
-![Categorias Arquiteturais](visualizacoes/viz_03_categorias_expandidas.png)
+![Categorias Arquiteturais](resultados/visualizacoes/viz_03_categorias_expandidas.png)
 
 Destaques por categoria:
 - **Engine de Visualização:** Unity WebGL (55 ocorrências), Three.js (3), Unreal Engine (2)
@@ -109,7 +109,7 @@ Destaques por categoria:
 
 ### Linguagens Backend
 
-![Linguagens Backend](visualizacoes/viz_04_linguagens_backend.png)
+![Linguagens Backend](resultados/visualizacoes/viz_04_linguagens_backend.png)
 
 C# (Unity) lidera com 25,5%, seguido por JavaScript (Node.js) e Python com 15,7% cada. Rust aparece com 11,8% — relevante para contextos de alta performance e sistemas embarcados.
 
@@ -117,7 +117,7 @@ C# (Unity) lidera com 25,5%, seguido por JavaScript (Node.js) e Python com 15,7%
 
 ### Protocolos de Comunicação
 
-![Protocolos](visualizacoes/viz_05_protocolos.png)
+![Protocolos](resultados/visualizacoes/viz_05_protocolos.png)
 
 - **Frontend (UI → Servidor):** SSE é amplamente dominante (38 ocorrências). WebSocket aparece em segundo (4), seguido de gRPC (3) e SignalR (2).
 - **Sensores/IoT (Dispositivo → Servidor):** Serial/UART e LoRaWAN empatados (4 cada). MQTT e OPC-UA com 3 cada — ambos relevantes para contextos industriais.
@@ -126,7 +126,7 @@ C# (Unity) lidera com 25,5%, seguido por JavaScript (Node.js) e Python com 15,7%
 
 ### Top 10 Stacks Mais Comuns
 
-![Stacks](visualizacoes/viz_06_stacks.png)
+![Stacks](resultados/visualizacoes/viz_06_stacks.png)
 
 A stack **Digital Twin + Unity Engine** é a mais frequente (10 repositórios). Variações com Robótica/ROS, OPC-UA e arquitetura Client-Server completam o top 5.
 
@@ -134,7 +134,7 @@ A stack **Digital Twin + Unity Engine** é a mais frequente (10 repositórios). 
 
 ### Word Cloud — Tecnologias nas Stacks
 
-![Word Cloud](visualizacoes/viz_08_wordcloud.png)
+![Word Cloud](resultados/visualizacoes/viz_08_wordcloud.png)
 
 ---
 
