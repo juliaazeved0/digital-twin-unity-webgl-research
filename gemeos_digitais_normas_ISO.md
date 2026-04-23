@@ -1,7 +1,6 @@
 # Gêmeos Digitais com Dados em Tempo Real — Normas ISO
 
-> Síntese técnica para o projeto de gêmeo digital do vertedouro da Usina de Itaipu Binacional.  
-> **Itaipu Parquetec · Centro de Soluções para Barragens · 2025**
+> Síntese técnica para um projeto de gêmeo digital voltado para infraestruturas críticas. 
 
 ---
 
@@ -58,7 +57,7 @@ O futuro dos gêmeos digitais de infraestrutura reside na integração do framew
 - **IoT** — para monitoramento em tempo real via sensores
 - **Inteligência Artificial** — para análise preditiva e suporte à tomada de decisão
 
-Essa integração é diretamente relevante para a **Fase 2** do projeto Itaipu, que prevê a ingestão de dados de sensores em tempo real.
+Essa integração é diretamente relevante a ingestão de dados de sensores em tempo real.
 
 ---
 
