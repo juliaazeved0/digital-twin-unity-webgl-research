@@ -97,5 +97,3 @@ Essa abordagem:
 - Assegura rastreabilidade via UUID para cada entidade monitorada
 
 ---
-
-*Itaipu Parquetec · Centro de Soluções para Barragens · 2025*
