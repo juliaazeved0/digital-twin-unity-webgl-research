@@ -71,7 +71,7 @@ ISO 16739-1:2024 (IFC/BIM para infraestrutura crítica), Eclipse Foundation IoT 
 
 ### Top 20 Tecnologias nos Repositórios
 
-![Top 20 Tecnologias](visualizacoes/viz_01_top20_tecnologias.png)
+![Top 20 Tecnologias](resultados/visualizacoes/viz_01_top20_tecnologias.png)
 
 Unity domina com 85,9% dos repositórios relevantes. Digital Twin aparece em 79,7%. A stack mais comum é **Digital Twin + Unity Engine** (10 repositórios), seguida por variações com Robótica/ROS e OPC-UA.
 
@@ -79,7 +79,7 @@ Unity domina com 85,9% dos repositórios relevantes. Digital Twin aparece em 79,
 
 ### Distribuição de Relevância (253 repositórios)
 
-![Distribuição de Relevância](visualizacoes/viz_02_relevancia.png)
+![Distribuição de Relevância](resultados/visualizacoes/viz_02_relevancia.png)
 
 | Relevância | % |
 |---|---|
