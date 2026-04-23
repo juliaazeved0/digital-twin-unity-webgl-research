@@ -19,24 +19,35 @@ Qual a stack tecnologica mais utilizada em projetos de gemeo digital na web com 
 digital-twin-web-tech-survey/
 │
 ├── README.md
-│
-├── pipeline_pesquisa_gemeo_digital.docx   ← Documento metodológico completo
-│
-├── data/
-│   ├── tabela_extracao_notebookLM.xlsx    ← Dados extraídos dos artigos científicos
-│   └── gemeos_digitais_normas_ISO.md      ← Síntese sobre normas ISO aplicáveis
+├── dados/
+│   ├── repositorios_analisados/
+│       └──extracao_repositorios.xlsx
+|   ├── artigos_analisados/
+|       └──artigos_aproveitados/
+|       └──artigos_descartados/
+|       └──artigos_coletados.xlsx
+|       └──artigos_selecionados.csv
 │
 ├── notebooks/
-│   └── analise_repositorios.ipynb         ← Notebook Google Colab (análise GitHub API)
+│   └── pesquisa_dt_p2_v2.ipynb    
 │
-└── visualizacoes/
-    ├── viz_01_top20_tecnologias.png
-    ├── viz_02_relevancia.png
-    ├── viz_03_categorias_expandidas.png
-    ├── viz_04_linguagens_backend.png
-    ├── viz_05_protocolos.png
-    ├── viz_06_stacks.png
-    └── viz_08_wordcloud.png
+├── pipeline/
+│   └── dossie_gemeos_digitais.docx
+│   └── pipeline_pesquisa_gemeo_digital.docx     
+│
+├── resultados/
+│   └── dossie_resultados_gemeo_digital.docx	
+│   └── top_50_repositorios_relevantes.xlsx
+│   └── gemeos_digitais_normas_ISO.md		
+│   └── tabela_comparativa_extracao_notebookLM.xlsx
+|   └── visualizacoes/
+|        ├── viz_01_top20_tecnologias.png
+|        ├── viz_02_relevancia.png
+|        ├── viz_03_categorias_expandidas.png
+|        ├── viz_04_linguagens_backend.png
+|        ├── viz_05_protocolos.png
+|        ├── viz_06_stacks.png
+|        |── viz_08_wordcloud.png
 ```
 
 ---
